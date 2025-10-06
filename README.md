@@ -4,3 +4,7 @@ TPP - The People Packer is a lightweight entropy based packer for on the fly pac
 Pack.exe - Packer
 
 Unpack.exe - Unpack
+
+Unpack packed-packer.bin with Unpack.exe and you have a full functioning packer 
+
+Unpack.exe packed-packer.bin packer.exe
